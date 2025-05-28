@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "kimberly-groups": {
-      "totalLinesAdded": 991,
-      "totalLinesRemoved": 137,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 993,
+      "totalLinesRemoved": 244,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx": [
           {
@@ -215,6 +215,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:41:15.548Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 85,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:41:48.326Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:42:42.878Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:42:43.957Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
