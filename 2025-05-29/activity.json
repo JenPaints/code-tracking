@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-29",
+  "projects": {
+    "kimberly-groups": {
+      "totalLinesAdded": 562,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx": [
+          {
+            "timestamp": "2025-05-28T20:59:35.777Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 338,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:00:15.995Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "2": 1
+      },
+      "topFiles": [
+        "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx"
+      ],
+      "averageChangeSize": 281
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    2
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
