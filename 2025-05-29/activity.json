@@ -3,8 +3,8 @@
   "projects": {
     "kimberly-groups": {
       "totalLinesAdded": 562,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx": [
           {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T21:05:13.589Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
