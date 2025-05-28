@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1608                                          |
-| **Lines Removed** (➖) | 279                                        |
-| **Net Change** (↕)    | 1329                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Lines Added** (➕)   | 1736                                          |
+| **Lines Removed** (➖) | 306                                        |
+| **Net Change** (↕)    | 1430                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
@@ -15,11 +15,12 @@
 - **index.tsx** (+345, -3)
 - **Bubbles.tsx** (+106, -0)
 - **Button.tsx** (+66, -0)
-- **Navbar.tsx** (+91, -0)
+- **Navbar.tsx** (+208, -27)
 - **Scene.tsx** (+196, -0)
 - **SlideShow.tsx** (+71, -0)
 - **index.tsx** (+612, -274)
 - **Scene.tsx** (+79, -0)
+- **COMMIT_EDITMSG** (+11, -0)
 
 ## Visualizations
 
@@ -28,7 +29,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1887
+".tsx" : 2031
+"unknown" : 11
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +43,8 @@ title Coding activity by hour (count of changes)
 "16h" : 8
 "17h" : 7
 "18h" : 6
-"19h" : 1
+"19h" : 4
 ```
 
 
-> **Last Updated:** 5/28/2025, 7:11:32 PM
+> **Last Updated:** 5/28/2025, 7:35:09 PM
