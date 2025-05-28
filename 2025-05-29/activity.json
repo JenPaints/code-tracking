@@ -3,8 +3,8 @@
   "projects": {
     "kimberly-groups": {
       "totalLinesAdded": 1279,
-      "totalLinesRemoved": 327,
-      "totalActiveTime": 74,
+      "totalLinesRemoved": 489,
+      "totalActiveTime": 79,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx": [
           {
@@ -500,6 +500,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T22:39:07.512Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\AlternatingText\\Scene.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 73,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\AlternatingText\\index.tsx": [
@@ -615,6 +629,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-28T22:36:08.522Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\components\\AlternatingLogos.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 89,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
