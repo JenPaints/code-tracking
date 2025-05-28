@@ -2,7 +2,7 @@
   "date": "2025-05-28",
   "projects": {
     "kimberly-groups": {
-      "totalLinesAdded": 354,
+      "totalLinesAdded": 429,
       "totalLinesRemoved": 4,
       "totalActiveTime": 14,
       "files": {
@@ -144,6 +144,22 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\components\\Button.tsx",
             "fileType": ".tsx",
             "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\components\\Navbar.tsx": [
+          {
+            "timestamp": "2025-05-28T10:18:55.696Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\components\\Navbar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 75,
             "linesRemoved": 0,
             "projectName": "kimberly-groups",
             "content": {
