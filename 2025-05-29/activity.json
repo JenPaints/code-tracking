@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "kimberly-groups": {
-      "totalLinesAdded": 1526,
+      "totalLinesAdded": 2014,
       "totalLinesRemoved": 535,
-      "totalActiveTime": 100,
+      "totalActiveTime": 101,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\SlideShow\\index.tsx": [
           {
@@ -469,6 +469,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T06:41:58.030Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\Hero\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 183,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-29T06:42:01.776Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\kimberly-groups\\src\\slices\\Hero\\index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 305,
+            "linesRemoved": 0,
+            "projectName": "kimberly-groups",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
