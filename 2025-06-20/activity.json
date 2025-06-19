@@ -2,7 +2,7 @@
   "date": "2025-06-20",
   "projects": {
     "3d-gsap-scroll-template-main": {
-      "totalLinesAdded": 127,
+      "totalLinesAdded": 128,
       "totalLinesRemoved": 3,
       "totalActiveTime": 10,
       "files": {
@@ -84,6 +84,20 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\3d-gsap-scroll-template-main\\3d-gsap-scroll-template-main\\src\\Scene.jsx",
             "fileType": ".jsx",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "3d-gsap-scroll-template-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-19T20:00:05.277Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\3d-gsap-scroll-template-main\\3d-gsap-scroll-template-main\\src\\Scene.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "3d-gsap-scroll-template-main",
             "content": {
