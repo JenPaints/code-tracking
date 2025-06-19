@@ -250,9 +250,9 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 897,
+      "totalLinesAdded": 1013,
       "totalLinesRemoved": 844,
-      "totalActiveTime": 15,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
           {
@@ -423,6 +423,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\EnergyEffect.tsx": [
+          {
+            "timestamp": "2025-06-19T22:14:52.698Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\EnergyEffect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
