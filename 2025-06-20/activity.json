@@ -250,9 +250,9 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 1321,
-      "totalLinesRemoved": 990,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 5011,
+      "totalLinesRemoved": 4652,
+      "totalActiveTime": 37,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
           {
@@ -642,6 +642,106 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-19T22:52:19.410Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts": [
+          {
+            "timestamp": "2025-06-19T22:50:42.722Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1860,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T22:50:55.018Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T22:51:09.451Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T22:51:10.737Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1829,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T22:51:14.406Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1829,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-19T22:51:17.160Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1829,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
