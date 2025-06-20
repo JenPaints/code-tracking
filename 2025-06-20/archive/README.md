@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2508                                          |
+| **Lines Added** (➕)   | 3150                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2508                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 3150                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **Profile.tsx** (+492, -0)
 - **PaymentManagement.tsx** (+574, -0)
 - **InvoicesTab.tsx** (+319, -0)
+- **Leaderboard.tsx** (+113, -0)
+- **SettingsTab.tsx** (+529, -0)
 
 ## Visualizations
 
@@ -26,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2508
+".tsx" : 3150
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"19h" : 8
+"19h" : 10
 ```
 
 
-> **Last Updated:** 6/20/2025, 7:20:37 PM
+> **Last Updated:** 6/20/2025, 7:25:37 PM
