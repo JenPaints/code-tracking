@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4                                          |
-| **Lines Removed** (➖) | 77                                        |
+| **Lines Added** (➕)   | 6                                          |
+| **Lines Removed** (➖) | 79                                        |
 | **Net Change** (↕)    | -73                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
-- **schema.ts** (+1, -1)
+- **schema.ts** (+2, -3)
 - **attendance.ts** (+0, -75)
-- **COMMIT_EDITMSG** (+1, -1)
+- **COMMIT_EDITMSG** (+2, -1)
 - **.env.local** (+2, -0)
 
 ## Visualizations
@@ -23,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 77
-"unknown" : 2
+".ts" : 80
+"unknown" : 3
 ".local" : 2
 ```
 
@@ -33,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 6
+"00h" : 9
 ```
 
 
-> **Last Updated:** 6/21/2025, 12:20:38 AM
+> **Last Updated:** 6/21/2025, 12:25:38 AM
