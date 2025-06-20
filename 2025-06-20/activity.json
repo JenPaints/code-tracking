@@ -1902,9 +1902,9 @@
       "averageChangeSize": 96684
     },
     "Archive": {
-      "totalLinesAdded": 4564,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 4585,
+      "totalLinesRemoved": 207,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
           {
@@ -2242,6 +2242,52 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\.env.local": [
+          {
+            "timestamp": "2025-06-20T18:23:31.798Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-06-20T18:23:33.271Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\.env": [
+          {
+            "timestamp": "2025-06-20T18:24:28.209Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.env",
+            "fileType": "unknown",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
