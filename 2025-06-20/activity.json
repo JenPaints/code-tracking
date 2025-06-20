@@ -1902,9 +1902,9 @@
       "averageChangeSize": 96684
     },
     "Archive": {
-      "totalLinesAdded": 4553,
+      "totalLinesAdded": 4564,
       "totalLinesRemoved": 205,
-      "totalActiveTime": 27,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
           {
@@ -2213,6 +2213,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-20T17:57:09.319Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\attendance.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-20T17:57:11.134Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\attendance.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
