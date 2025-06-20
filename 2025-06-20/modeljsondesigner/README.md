@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6873                                          |
+| **Lines Added** (➕)   | 7661                                          |
 | **Lines Removed** (➖) | 4780                                        |
-| **Net Change** (↕)    | 2093                |
-| **Active Time** (⌚)   | 105 minutes |
+| **Net Change** (↕)    | 2881                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
 - **SunlightEffect.tsx** (+952, -840)
 - **Scene.tsx** (+120, -21)
 - **EnergyEffect.tsx** (+375, -129)
-- **ProductShowcase.tsx** (+254, -0)
+- **ProductShowcase.tsx** (+371, -0)
 - **useParticleVisibility.ts** (+11, -0)
 - **COMMIT_EDITMSG** (+20, -9)
 - **vite.config.ts** (+3696, -3661)
@@ -26,13 +26,13 @@
 - **index.html** (+13, -0)
 - **App.tsx** (+152, -33)
 - **_redirects** (+1, -0)
-- **index.css** (+286, -51)
+- **index.css** (+521, -51)
 - **Preloader.tsx** (+75, -0)
 - **interface.tsx** (+96, -0)
-- **HeaderSection.tsx** (+101, -0)
-- **AboutSection.tsx** (+74, -0)
-- **ServicesSection.tsx** (+83, -0)
-- **ContactSection.tsx** (+159, -0)
+- **HeaderSection.tsx** (+205, -0)
+- **AboutSection.tsx** (+153, -0)
+- **ServicesSection.tsx** (+172, -0)
+- **ContactSection.tsx** (+323, -0)
 
 ## Visualizations
 
@@ -41,13 +41,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3484
+".tsx" : 4037
 ".ts" : 7458
 "unknown" : 30
 ".ico" : 1
 ".json" : 330
 ".html" : 13
-".css" : 337
+".css" : 572
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "09h" : 34
 "10h" : 2
 "11h" : 8
-"12h" : 9
+"12h" : 15
 ```
 
 
-> **Last Updated:** 6/20/2025, 12:13:28 PM
+> **Last Updated:** 6/20/2025, 12:36:53 PM
