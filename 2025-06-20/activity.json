@@ -1900,6 +1900,53 @@
         "c:\\Users\\TECQNIO\\Downloads\\playgram_sportsnative\\.git\\COMMIT_EDITMSG"
       ],
       "averageChangeSize": 96684
+    },
+    "Archive": {
+      "totalLinesAdded": 153,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
+          {
+            "timestamp": "2025-06-20T13:32:29.859Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-20T13:32:30.613Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "19": 0
+      },
+      "topFiles": [
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx"
+      ],
+      "averageChangeSize": 76.5
     }
   },
   "totalActiveTime": 7,
