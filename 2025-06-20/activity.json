@@ -250,9 +250,9 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 6339,
+      "totalLinesAdded": 6873,
       "totalLinesRemoved": 4780,
-      "totalActiveTime": 98,
+      "totalActiveTime": 105,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
           {
@@ -644,6 +644,20 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ProductShowcase.tsx",
             "fileType": ".tsx",
             "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-20T06:41:27.600Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ProductShowcase.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 117,
             "linesRemoved": 0,
             "projectName": "ModelJsonDesigner",
             "content": {
@@ -1456,6 +1470,70 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\ui\\interface.tsx",
             "fileType": ".tsx",
             "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\HeaderSection.tsx": [
+          {
+            "timestamp": "2025-06-20T06:40:40.465Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\HeaderSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\AboutSection.tsx": [
+          {
+            "timestamp": "2025-06-20T06:40:59.541Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\AboutSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ServicesSection.tsx": [
+          {
+            "timestamp": "2025-06-20T06:41:45.236Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ServicesSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ContactSection.tsx": [
+          {
+            "timestamp": "2025-06-20T06:42:06.706Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\ContactSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 159,
             "linesRemoved": 0,
             "projectName": "ModelJsonDesigner",
             "content": {
