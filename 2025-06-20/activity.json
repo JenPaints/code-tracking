@@ -1856,7 +1856,7 @@
     },
     "playgram_sportsnative": {
       "totalLinesAdded": 96684,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 96654,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\playgram_sportsnative\\.git\\COMMIT_EDITMSG": [
@@ -1866,6 +1866,20 @@
             "fileType": "unknown",
             "linesAdded": 96684,
             "linesRemoved": 0,
+            "projectName": "playgram_sportsnative",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-20T11:12:55.182Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\playgram_sportsnative\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 96654,
             "projectName": "playgram_sportsnative",
             "content": {
               "added": [],
