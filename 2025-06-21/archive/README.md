@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 0                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | -1                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 1                                          |
+| **Lines Removed** (➖) | 76                                        |
+| **Net Change** (↕)    | -75                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
-- **schema.ts** (+0, -1)
+- **schema.ts** (+1, -1)
+- **attendance.ts** (+0, -75)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1
+".ts" : 77
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 1
+"00h" : 3
 ```
 
 
-> **Last Updated:** 6/21/2025, 12:00:38 AM
+> **Last Updated:** 6/21/2025, 12:05:38 AM
