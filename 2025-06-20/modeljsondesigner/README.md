@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6113                                          |
+| **Lines Added** (➕)   | 6239                                          |
 | **Lines Removed** (➖) | 4776                                        |
-| **Net Change** (↕)    | 1337                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Net Change** (↕)    | 1463                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
 - **SunlightEffect.tsx** (+952, -840)
-- **Scene.tsx** (+71, -21)
+- **Scene.tsx** (+120, -21)
 - **EnergyEffect.tsx** (+375, -129)
 - **ProductShowcase.tsx** (+137, -0)
 - **useParticleVisibility.ts** (+11, -0)
@@ -24,9 +24,10 @@
 - **vercel.json** (+45, -29)
 - **main.tsx** (+13, -7)
 - **index.html** (+13, -0)
-- **App.tsx** (+150, -33)
+- **App.tsx** (+152, -33)
 - **_redirects** (+1, -0)
 - **index.css** (+282, -47)
+- **Preloader.tsx** (+75, -0)
 
 ## Visualizations
 
@@ -35,7 +36,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2728
+".tsx" : 2854
 ".ts" : 7458
 "unknown" : 30
 ".ico" : 1
@@ -54,8 +55,9 @@ title Coding activity by hour (count of changes)
 "08h" : 2
 "09h" : 34
 "10h" : 2
-"11h" : 6
+"11h" : 8
+"12h" : 1
 ```
 
 
-> **Last Updated:** 6/20/2025, 11:58:28 AM
+> **Last Updated:** 6/20/2025, 12:03:28 PM
