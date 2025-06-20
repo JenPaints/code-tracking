@@ -1902,9 +1902,9 @@
       "averageChangeSize": 96684
     },
     "Archive": {
-      "totalLinesAdded": 3150,
+      "totalLinesAdded": 3386,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 18,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
           {
@@ -2061,6 +2061,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\App.tsx": [
+          {
+            "timestamp": "2025-06-20T13:57:21.792Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 236,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
