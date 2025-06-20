@@ -1902,7 +1902,7 @@
       "averageChangeSize": 96684
     },
     "Archive": {
-      "totalLinesAdded": 3961,
+      "totalLinesAdded": 4553,
       "totalLinesRemoved": 205,
       "totalActiveTime": 27,
       "files": {
@@ -2190,6 +2190,22 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts",
             "fileType": ".ts",
             "linesAdded": 329,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\attendance.ts": [
+          {
+            "timestamp": "2025-06-20T17:40:13.132Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\attendance.ts",
+            "fileType": ".ts",
+            "linesAdded": 592,
             "linesRemoved": 0,
             "projectName": "Archive",
             "content": {
