@@ -250,9 +250,9 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 8004,
+      "totalLinesAdded": 8080,
       "totalLinesRemoved": 4817,
-      "totalActiveTime": 117,
+      "totalActiveTime": 120,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
           {
@@ -994,6 +994,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-20T08:28:46.498Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-20T08:28:49.994Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\server\\vite.ts": [
@@ -1197,6 +1225,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-20T08:29:09.568Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vercel.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-20T08:29:12.976Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vercel.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],

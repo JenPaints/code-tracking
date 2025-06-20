@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8004                                          |
+| **Lines Added** (➕)   | 8080                                          |
 | **Lines Removed** (➖) | 4817                                        |
-| **Net Change** (↕)    | 3187                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Net Change** (↕)    | 3263                |
+| **Active Time** (⌚)   | 120 minutes |
 
 
 ## Modified Files
@@ -17,11 +17,11 @@
 - **ProductShowcase.tsx** (+371, -0)
 - **useParticleVisibility.ts** (+11, -0)
 - **COMMIT_EDITMSG** (+34, -9)
-- **vite.config.ts** (+3696, -3661)
+- **vite.config.ts** (+3733, -3661)
 - **vite.ts** (+90, -0)
 - **favicon.ico** (+1, -0)
 - **package.json** (+256, -0)
-- **vercel.json** (+45, -29)
+- **vercel.json** (+84, -29)
 - **main.tsx** (+13, -7)
 - **index.html** (+13, -0)
 - **App.tsx** (+152, -33)
@@ -44,10 +44,10 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 4403
-".ts" : 7458
+".ts" : 7495
 "unknown" : 44
 ".ico" : 1
-".json" : 330
+".json" : 369
 ".html" : 13
 ".css" : 572
 ```
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "10h" : 2
 "11h" : 8
 "12h" : 22
-"13h" : 1
+"13h" : 5
 ```
 
 
-> **Last Updated:** 6/20/2025, 1:49:14 PM
+> **Last Updated:** 6/20/2025, 1:59:14 PM
