@@ -1903,8 +1903,8 @@
     },
     "Archive": {
       "totalLinesAdded": 3610,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalLinesRemoved": 200,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
           {
@@ -2094,6 +2094,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-20T14:25:15.585Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 198,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\vercel.json": [
@@ -2109,6 +2123,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-20T14:23:25.508Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\vercel.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ]
