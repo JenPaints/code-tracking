@@ -251,7 +251,7 @@
     },
     "ModelJsonDesigner": {
       "totalLinesAdded": 5390,
-      "totalLinesRemoved": 4711,
+      "totalLinesRemoved": 4724,
       "totalActiveTime": 72,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
@@ -1043,6 +1043,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-06-20T03:56:16.361Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\vercel.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
