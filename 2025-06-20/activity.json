@@ -1902,9 +1902,9 @@
       "averageChangeSize": 96684
     },
     "Archive": {
-      "totalLinesAdded": 1123,
+      "totalLinesAdded": 2508,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\coach\\AttendanceHistory.tsx": [
           {
@@ -1981,6 +1981,54 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\student\\Profile.tsx": [
+          {
+            "timestamp": "2025-06-20T13:47:26.094Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\student\\Profile.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 492,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\PaymentManagement.tsx": [
+          {
+            "timestamp": "2025-06-20T13:48:59.601Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\PaymentManagement.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 574,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\InvoicesTab.tsx": [
+          {
+            "timestamp": "2025-06-20T13:50:01.819Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\InvoicesTab.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 319,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
