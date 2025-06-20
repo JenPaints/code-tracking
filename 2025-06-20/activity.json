@@ -250,9 +250,9 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 5391,
+      "totalLinesAdded": 5392,
       "totalLinesRemoved": 4729,
-      "totalActiveTime": 77,
+      "totalActiveTime": 80,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\3d\\SunlightEffect.tsx": [
           {
@@ -1232,6 +1232,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\public\\_redirects": [
+          {
+            "timestamp": "2025-06-20T04:03:11.449Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\public\\_redirects",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },
