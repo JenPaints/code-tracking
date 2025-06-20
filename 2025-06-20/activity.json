@@ -250,7 +250,7 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 5759,
+      "totalLinesAdded": 6009,
       "totalLinesRemoved": 4729,
       "totalActiveTime": 80,
       "files": {
@@ -1290,6 +1290,22 @@
             },
             "duration": 3,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\index.css": [
+          {
+            "timestamp": "2025-06-20T06:15:29.584Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\index.css",
+            "fileType": ".css",
+            "linesAdded": 250,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ]
       },
