@@ -250,7 +250,7 @@
       "averageChangeSize": 15
     },
     "ModelJsonDesigner": {
-      "totalLinesAdded": 7867,
+      "totalLinesAdded": 7875,
       "totalLinesRemoved": 4817,
       "totalActiveTime": 115,
       "files": {
@@ -1542,6 +1542,20 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\HeaderSection.tsx",
             "fileType": ".tsx",
             "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "ModelJsonDesigner",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-20T07:28:36.499Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\ModelJsonDesigner (4)\\ModelJsonDesigner\\client\\src\\components\\landing\\HeaderSection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "ModelJsonDesigner",
             "content": {
