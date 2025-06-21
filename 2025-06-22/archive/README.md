@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2767                                          |
-| **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 2746                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 2769                                          |
+| **Lines Removed** (➖) | 29                                        |
+| **Net Change** (↕)    | 2740                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **AdminDashboard.tsx** (+110, -0)
 - **auth.ts** (+294, -18)
 - **users.ts** (+491, -0)
-- **AdminDashboard.tsx** (+150, -0)
+- **AdminDashboard.tsx** (+152, -8)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1780
-".tsx" : 1008
+".tsx" : 1018
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
 "01h" : 41
-"02h" : 4
+"02h" : 9
 ```
 
 
-> **Last Updated:** 6/22/2025, 2:16:24 AM
+> **Last Updated:** 6/22/2025, 2:21:24 AM
