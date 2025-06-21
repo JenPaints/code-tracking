@@ -2,7 +2,7 @@
   "date": "2025-06-21",
   "projects": {
     "Archive": {
-      "totalLinesAdded": 534,
+      "totalLinesAdded": 852,
       "totalLinesRemoved": 79,
       "totalActiveTime": 13,
       "files": {
@@ -146,6 +146,22 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\SettingsTab.tsx",
             "fileType": ".tsx",
             "linesAdded": 528,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\InvoicesTab.tsx": [
+          {
+            "timestamp": "2025-06-21T13:54:19.883Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\InvoicesTab.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 318,
             "linesRemoved": 0,
             "projectName": "Archive",
             "content": {
