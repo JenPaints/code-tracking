@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2946                                          |
-| **Lines Removed** (➖) | 32                                        |
-| **Net Change** (↕)    | 2914                |
-| **Active Time** (⌚)   | 90 minutes |
+| **Lines Added** (➕)   | 3008                                          |
+| **Lines Removed** (➖) | 426                                        |
+| **Net Change** (↕)    | 2582                |
+| **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
 - **schema.ts** (+377, -0)
-- **RBACManagementTab.tsx** (+879, -5)
+- **RBACManagementTab.tsx** (+941, -399)
 - **rbac.ts** (+599, -1)
 - **AdminDashboard.tsx** (+146, -0)
 - **auth.ts** (+294, -18)
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1780
-".tsx" : 1198
+".tsx" : 1654
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "00h" : 6
 "01h" : 41
 "02h" : 16
-"03h" : 5
+"03h" : 7
 ```
 
 
-> **Last Updated:** 6/22/2025, 3:11:24 AM
+> **Last Updated:** 6/22/2025, 3:16:24 AM
