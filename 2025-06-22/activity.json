@@ -2,9 +2,9 @@
   "date": "2025-06-22",
   "projects": {
     "Archive": {
-      "totalLinesAdded": 2099,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 2581,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts": [
           {
@@ -265,6 +265,106 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:47:28.303Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:47:29.568Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:48:44.600Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:48:46.476Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:50:58.151Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-21T19:50:59.662Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\users.ts": [
+          {
+            "timestamp": "2025-06-21T19:50:36.866Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\users.ts",
+            "fileType": ".ts",
+            "linesAdded": 479,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2099                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 2094                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 2581                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 2573                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **RBACManagementTab.tsx** (+733, -0)
 - **rbac.ts** (+599, -1)
 - **AdminDashboard.tsx** (+110, -0)
-- **auth.ts** (+280, -4)
+- **auth.ts** (+283, -7)
+- **users.ts** (+479, -0)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1261
+".ts" : 1746
 ".tsx" : 843
 ```
 
@@ -34,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "00h" : 6
-"01h" : 12
+"01h" : 19
 ```
 
 
-> **Last Updated:** 6/22/2025, 1:16:24 AM
+> **Last Updated:** 6/22/2025, 1:21:24 AM
