@@ -1027,9 +1027,9 @@
       "averageChangeSize": 377
     },
     "1bhk.life": {
-      "totalLinesAdded": 894,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 1482,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\convex\\admin.ts": [
           {
@@ -1095,6 +1095,64 @@
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\EnhancedAdminDashboard.tsx",
             "fileType": ".tsx",
             "linesAdded": 548,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx": [
+          {
+            "timestamp": "2025-06-22T12:52:06.544Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 586,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T12:53:28.376Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T12:54:11.023Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T12:54:11.851Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "1bhk.life",
             "content": {
