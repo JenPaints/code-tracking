@@ -1027,9 +1027,9 @@
       "averageChangeSize": 377
     },
     "1bhk.life": {
-      "totalLinesAdded": 1713,
+      "totalLinesAdded": 1814,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 9,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\convex\\admin.ts": [
           {
@@ -1150,6 +1150,48 @@
           },
           {
             "timestamp": "2025-06-22T12:54:11.851Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T15:10:14.292Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T15:10:18.570Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-22T15:10:41.608Z",
             "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\AdminDashboard.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
