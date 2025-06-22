@@ -1025,6 +1025,57 @@
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts"
       ],
       "averageChangeSize": 377
+    },
+    "1bhk.life": {
+      "totalLinesAdded": 775,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\convex\\admin.ts": [
+          {
+            "timestamp": "2025-06-22T12:41:13.650Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\convex\\admin.ts",
+            "fileType": ".ts",
+            "linesAdded": 227,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\EnhancedAdminDashboard.tsx": [
+          {
+            "timestamp": "2025-06-22T12:41:30.649Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\EnhancedAdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 548,
+            "linesRemoved": 0,
+            "projectName": "1bhk.life",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\convex\\admin.ts",
+        "c:\\Users\\TECQNIO\\Downloads\\1bhk.life\\src\\components\\EnhancedAdminDashboard.tsx"
+      ],
+      "averageChangeSize": 387.5
     }
   },
   "totalActiveTime": 0,
