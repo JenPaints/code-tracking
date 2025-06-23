@@ -49,9 +49,9 @@
       "averageChangeSize": 680
     },
     "Archive": {
-      "totalLinesAdded": 2948,
+      "totalLinesAdded": 3145,
       "totalLinesRemoved": 50,
-      "totalActiveTime": 27,
+      "totalActiveTime": 33,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\RBACManagementTab.tsx": [
           {
@@ -221,6 +221,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T13:25:59.833Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\RBACManagementTab.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\.git\\COMMIT_EDITMSG": [
@@ -306,6 +320,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-23T13:29:54.118Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "unknown"
           }
         ],
@@ -429,6 +457,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-23T13:26:41.165Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\rbac.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts": [
@@ -445,6 +487,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\AdminDashboard.tsx": [
+          {
+            "timestamp": "2025-06-23T13:27:25.832Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
