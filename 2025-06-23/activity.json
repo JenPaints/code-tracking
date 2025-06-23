@@ -49,9 +49,9 @@
       "averageChangeSize": 680
     },
     "Archive": {
-      "totalLinesAdded": 782,
+      "totalLinesAdded": 836,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\RBACManagementTab.tsx": [
           {
@@ -83,6 +83,36 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-23T10:21:25.157Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\android\\app\\src\\main\\assets\\public\\index.html": [
+          {
+            "timestamp": "2025-06-23T10:23:14.485Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\android\\app\\src\\main\\assets\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ]
       },
