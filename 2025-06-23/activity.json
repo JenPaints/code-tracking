@@ -49,9 +49,9 @@
       "averageChangeSize": 680
     },
     "Archive": {
-      "totalLinesAdded": 1219,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 1747,
+      "totalLinesRemoved": 48,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\RBACManagementTab.tsx": [
           {
@@ -97,6 +97,20 @@
             },
             "duration": 0,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-23T11:51:08.924Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\android\\app\\src\\main\\assets\\public\\index.html": [
@@ -129,6 +143,36 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-23T11:53:45.200Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\UsersTab.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\users.ts": [
+          {
+            "timestamp": "2025-06-23T11:55:27.736Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\users.ts",
+            "fileType": ".ts",
+            "linesAdded": 491,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },

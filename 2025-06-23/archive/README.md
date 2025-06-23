@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1219                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1219                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 1747                                          |
+| **Lines Removed** (➖) | 48                                        |
+| **Net Change** (↕)    | 1699                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
 - **RBACManagementTab.tsx** (+762, -0)
-- **COMMIT_EDITMSG** (+59, -0)
+- **COMMIT_EDITMSG** (+59, -48)
 - **index.html** (+15, -0)
-- **UsersTab.tsx** (+383, -0)
+- **UsersTab.tsx** (+420, -0)
+- **users.ts** (+491, -0)
 
 ## Visualizations
 
@@ -23,9 +24,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1145
-"unknown" : 59
+".tsx" : 1182
+"unknown" : 107
 ".html" : 15
+".ts" : 491
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 2
 "15h" : 2
-"17h" : 1
+"17h" : 4
 ```
 
 
-> **Last Updated:** 6/23/2025, 5:21:07 PM
+> **Last Updated:** 6/23/2025, 5:26:07 PM
