@@ -3,8 +3,8 @@
   "projects": {
     "Archive": {
       "totalLinesAdded": 1171,
-      "totalLinesRemoved": 10,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\RBACManagementTab.tsx": [
           {
@@ -43,6 +43,34 @@
             "fileType": ".tsx",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-25T16:32:57.981Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-25T16:36:23.547Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "Archive",
             "content": {
               "added": [],
