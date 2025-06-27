@@ -2,9 +2,9 @@
   "date": "2025-06-27",
   "projects": {
     "Archive": {
-      "totalLinesAdded": 557,
+      "totalLinesAdded": 644,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts": [
           {
@@ -36,6 +36,38 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabRestriction.ts": [
+          {
+            "timestamp": "2025-06-27T12:33:37.612Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabRestriction.ts",
+            "fileType": ".ts",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\tabRestrictions.ts": [
+          {
+            "timestamp": "2025-06-27T12:34:10.503Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\tabRestrictions.ts",
+            "fileType": ".ts",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
