@@ -2,9 +2,9 @@
   "date": "2025-06-27",
   "projects": {
     "Archive": {
-      "totalLinesAdded": 1018,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 1027,
+      "totalLinesRemoved": 59,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts": [
           {
@@ -92,6 +92,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-27T13:26:39.646Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-27T13:27:09.804Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabRestriction.ts": [
@@ -156,6 +184,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabDefinitions.ts": [
+          {
+            "timestamp": "2025-06-27T13:26:25.035Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabDefinitions.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
