@@ -2,9 +2,9 @@
   "date": "2025-06-27",
   "projects": {
     "Archive": {
-      "totalLinesAdded": 644,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 786,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\convex\\schema.ts": [
           {
@@ -50,6 +50,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-27T12:44:34.810Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\AdminDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\types\\tabRestriction.ts": [
@@ -82,6 +96,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\TabRestrictionManagementTab.tsx": [
+          {
+            "timestamp": "2025-06-27T12:42:29.657Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\Archive\\src\\components\\admin\\tabs\\TabRestrictionManagementTab.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "Archive",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
