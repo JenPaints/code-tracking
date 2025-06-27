@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 644                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 644                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 643                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
 - **schema.ts** (+389, -0)
-- **AdminDashboard.tsx** (+168, -0)
+- **AdminDashboard.tsx** (+168, -1)
 - **tabRestriction.ts** (+19, -0)
 - **tabRestrictions.ts** (+68, -0)
 
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 476
-".tsx" : 168
+".tsx" : 169
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 1
 "17h" : 1
-"18h" : 2
+"18h" : 3
 ```
 
 
-> **Last Updated:** 6/27/2025, 6:05:13 PM
+> **Last Updated:** 6/27/2025, 6:10:13 PM
