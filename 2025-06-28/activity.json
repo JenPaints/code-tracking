@@ -2,7 +2,7 @@
   "date": "2025-06-28",
   "projects": {
     "Navtech": {
-      "totalLinesAdded": 40,
+      "totalLinesAdded": 116,
       "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 0,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Desktop\\Navtech\\package.json": [
+          {
+            "timestamp": "2025-06-28T11:38:43.314Z",
+            "fileName": "c:\\Users\\TECQNIO\\Desktop\\Navtech\\package.json",
+            "fileType": ".json",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "Navtech",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
