@@ -1,0 +1,61 @@
+{
+  "date": "2025-06-28",
+  "projects": {
+    "Navtech": {
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\TECQNIO\\Desktop\\Navtech\\.gitignore": [
+          {
+            "timestamp": "2025-06-28T11:33:36.569Z",
+            "fileName": "c:\\Users\\TECQNIO\\Desktop\\Navtech\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Navtech",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-28T11:33:37.598Z",
+            "fileName": "c:\\Users\\TECQNIO\\Desktop\\Navtech\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Navtech",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "c:\\Users\\TECQNIO\\Desktop\\Navtech\\.gitignore"
+      ],
+      "averageChangeSize": 20.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
