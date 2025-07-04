@@ -35,9 +35,9 @@
       "averageChangeSize": 27
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 8509,
+      "totalLinesAdded": 8557,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 5,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\.next\\package.json": [
           {
@@ -145,6 +145,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\src\\prismicio.ts": [
+          {
+            "timestamp": "2025-07-04T12:57:18.283Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\src\\prismicio.ts",
+            "fileType": ".ts",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
           }
         ]
       },
