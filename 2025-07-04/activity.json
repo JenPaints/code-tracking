@@ -35,9 +35,9 @@
       "averageChangeSize": 27
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 8507,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 8509,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\.next\\package.json": [
           {
@@ -52,6 +52,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-04T12:53:08.011Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-07-04T12:53:17.450Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\SUBJEN\\suburbiajenn\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],
