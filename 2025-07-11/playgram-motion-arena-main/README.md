@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 327                                          |
+| **Lines Added** (➕)   | 850                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 327                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 850                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
-- **index.css** (+280, -0)
+- **index.css** (+288, -0)
 - **SmoothScroll.tsx** (+47, -0)
+- **SportsStackSection.tsx** (+267, -0)
+- **HeroSection.tsx** (+248, -0)
 
 ## Visualizations
 
@@ -21,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".css" : 280
-".tsx" : 47
+".css" : 288
+".tsx" : 562
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 2
+"18h" : 5
 ```
 
 
-> **Last Updated:** 7/11/2025, 6:42:39 PM
+> **Last Updated:** 7/11/2025, 6:47:39 PM
