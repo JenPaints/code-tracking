@@ -2,7 +2,7 @@
   "date": "2025-07-11",
   "projects": {
     "playgram-motion-arena-main": {
-      "totalLinesAdded": 280,
+      "totalLinesAdded": 327,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\playgram-motion-arena-main\\playgram-motion-arena-main\\src\\components\\SmoothScroll.tsx": [
+          {
+            "timestamp": "2025-07-11T13:11:02.698Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\playgram-motion-arena-main\\playgram-motion-arena-main\\src\\components\\SmoothScroll.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "playgram-motion-arena-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },

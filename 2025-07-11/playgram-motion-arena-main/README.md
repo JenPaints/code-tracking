@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 280                                          |
+| **Lines Added** (➕)   | 327                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 280                |
+| **Net Change** (↕)    | 327                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **index.css** (+280, -0)
+- **SmoothScroll.tsx** (+47, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 280
+".tsx" : 47
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 1
+"18h" : 2
 ```
 
 
-> **Last Updated:** 7/11/2025, 6:32:38 PM
+> **Last Updated:** 7/11/2025, 6:42:39 PM
