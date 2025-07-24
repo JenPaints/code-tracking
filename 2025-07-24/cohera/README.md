@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 948                                          |
+| **Lines Added** (➕)   | 1507                                          |
 | **Lines Removed** (➖) | 46                                        |
-| **Net Change** (↕)    | 902                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Net Change** (↕)    | 1461                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,8 @@
 - **App.tsx** (+300, -41)
 - **SignInForm.tsx** (+92, -0)
 - **ProfileSelection.tsx** (+25, -0)
-- **ProfileSetup.tsx** (+363, -0)
+- **ProfileSetup.tsx** (+368, -0)
+- **users.ts** (+554, -0)
 
 ## Visualizations
 
@@ -30,7 +31,8 @@ pie showData
 title Lines changed by file type
 "unknown" : 79
 ".json" : 94
-".tsx" : 821
+".tsx" : 826
+".ts" : 554
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "21h" : 6
 "22h" : 15
-"23h" : 5
+"23h" : 7
 ```
 
 
-> **Last Updated:** 7/24/2025, 11:24:05 PM
+> **Last Updated:** 7/24/2025, 11:29:05 PM
