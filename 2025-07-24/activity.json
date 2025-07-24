@@ -2,9 +2,9 @@
   "date": "2025-07-24",
   "projects": {
     "COHERA": {
-      "totalLinesAdded": 1629,
+      "totalLinesAdded": 2277,
       "totalLinesRemoved": 47,
-      "totalActiveTime": 41,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\COHERA\\.gitignore": [
           {
@@ -446,6 +446,36 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\bookings.ts": [
+          {
+            "timestamp": "2025-07-24T18:17:26.959Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\bookings.ts",
+            "fileType": ".ts",
+            "linesAdded": 646,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-24T18:18:13.496Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\bookings.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
