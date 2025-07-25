@@ -2,9 +2,9 @@
   "date": "2025-07-25",
   "projects": {
     "COHERA": {
-      "totalLinesAdded": 4552,
+      "totalLinesAdded": 5541,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 6,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\paymentProcessor.ts": [
           {
@@ -158,6 +158,68 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-25T08:47:11.595Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\pages\\AddProperty.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\schema.ts": [
+          {
+            "timestamp": "2025-07-25T08:49:07.516Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 740,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\restaurants.ts": [
+          {
+            "timestamp": "2025-07-25T08:49:38.921Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\restaurants.ts",
+            "fileType": ".ts",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\_generated\\api.d.ts": [
+          {
+            "timestamp": "2025-07-25T08:49:52.741Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\_generated\\api.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
