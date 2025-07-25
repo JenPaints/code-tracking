@@ -2,7 +2,7 @@
   "date": "2025-07-25",
   "projects": {
     "COHERA": {
-      "totalLinesAdded": 5809,
+      "totalLinesAdded": 5817,
       "totalLinesRemoved": 47,
       "totalActiveTime": 31,
       "files": {
@@ -437,6 +437,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-25T09:49:03.762Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\pages\\AddProperty.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
