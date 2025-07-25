@@ -3,7 +3,7 @@
   "projects": {
     "COHERA": {
       "totalLinesAdded": 3671,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 6,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\paymentProcessor.ts": [
@@ -29,6 +29,20 @@
             "fileType": ".ts",
             "linesAdded": 840,
             "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-07-25T06:56:57.099Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\chatbot.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "COHERA",
             "content": {
               "added": [],
