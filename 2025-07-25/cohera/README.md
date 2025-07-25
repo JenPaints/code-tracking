@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 6165                                          |
-| **Lines Removed** (➖) | 47                                        |
-| **Net Change** (↕)    | 6118                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Lines Removed** (➖) | 106                                        |
+| **Net Change** (↕)    | 6059                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **restaurants.ts** (+137, -0)
 - **api.d.ts** (+111, -0)
 - **AddRestaurantForm.tsx** (+199, -0)
-- **Home.tsx** (+348, -0)
+- **Home.tsx** (+348, -59)
 
 ## Visualizations
 
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 4661
-".tsx" : 1551
+".tsx" : 1610
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "11h" : 1
 "12h" : 1
 "14h" : 19
-"15h" : 11
+"15h" : 13
 ```
 
 
-> **Last Updated:** 7/25/2025, 3:26:16 PM
+> **Last Updated:** 7/25/2025, 3:31:16 PM

@@ -3,8 +3,8 @@
   "projects": {
     "COHERA": {
       "totalLinesAdded": 6165,
-      "totalLinesRemoved": 47,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 106,
+      "totalActiveTime": 41,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\paymentProcessor.ts": [
           {
@@ -573,6 +573,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-25T09:58:47.313Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\pages\\Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-07-25T10:00:32.070Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\pages\\Home.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 57,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
