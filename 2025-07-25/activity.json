@@ -2,9 +2,9 @@
   "date": "2025-07-25",
   "projects": {
     "COHERA": {
-      "totalLinesAdded": 3096,
+      "totalLinesAdded": 3097,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\paymentProcessor.ts": [
           {
@@ -67,6 +67,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\bookings.ts": [
+          {
+            "timestamp": "2025-07-25T04:44:45.440Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\convex\\bookings.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
