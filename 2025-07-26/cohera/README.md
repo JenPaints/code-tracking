@@ -4,18 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 983                                          |
+| **Lines Added** (➕)   | 1676                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 980                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Net Change** (↕)    | 1673                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
-- **SignInForm.tsx** (+92, -0)
+- **SignInForm.tsx** (+102, -0)
 - **ProfileSetup.tsx** (+369, -0)
 - **Profile.tsx** (+43, -3)
 - **VendorSignUpForm.tsx** (+218, -0)
 - **App.tsx** (+261, -0)
+- **users.ts** (+598, -0)
+- **SignUpForm.tsx** (+69, -0)
+- **SignUp.tsx** (+16, -0)
 
 ## Visualizations
 
@@ -24,7 +27,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 986
+".tsx" : 1081
+".ts" : 598
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 11
+"15h" : 15
 ```
 
 
-> **Last Updated:** 7/26/2025, 3:24:19 PM
+> **Last Updated:** 7/26/2025, 3:29:19 PM
