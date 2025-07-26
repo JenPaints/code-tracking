@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-26",
+  "projects": {
+    "COHERA": {
+      "totalLinesAdded": 92,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\SignInForm.tsx": [
+          {
+            "timestamp": "2025-07-26T09:30:49.847Z",
+            "fileName": "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\SignInForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "COHERA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Users\\TECQNIO\\Downloads\\COHERA\\src\\SignInForm.tsx"
+      ],
+      "averageChangeSize": 92
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
